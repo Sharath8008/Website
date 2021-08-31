@@ -1,0 +1,114 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  /* background: #fff; */
+}
+
+
+/* Header */
+ul > li{
+  list-style: none;
+  font-size: 12px;
+  font-weight: bold;
+  /* border: 2px solid red; */
+  display: inline-block;
+  padding: 10px;
+  margin-top: 12px;
+  color: #116466;
+  cursor: pointer;
+}
+
+ul {
+  /* border: 2px solid green; */
+  /* padding-left: 780px; */
+  width: 500px;
+  margin-top: 29px;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+  border-radius: 120px;
+}
+
+.logo {
+  display: inline-block;
+  /* border: 2px red solid; */
+  padding: 20px;
+}
+/* Navigation ends here */
+
+
+
+/* Banner */
+.bnr {
+  width: 1250px;
+  height:550px;
+  position: relative;
+  margin-left: 125px;
+}
+
+
+
+/* About Us */
+
+.About-Us{
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 40px;
+  background: linear-gradient(
+      318.68deg,
+      #0f495c 0%,
+      #0d3640 49.72%,
+      #08141f 100%);
+ align-items: center;
+ /* border-radius: 120px; */
+}
+
+.imag{
+  width: 1300px;
+  height: 500px;
+  padding-top: 50px;
+  padding-left: 170px;
+}
+
+h1 {
+  color: #fff;
+  font-size: 30px;
+}
+
+.Sub-text {
+  padding-top: 40px;
+  padding-left: 630px;
+}
+
+/* .box {
+  border: 3px red solid;
+} */
+
+.about > p {
+  text-align: center;
+  padding-top: 10px;
+  font-size: 16px;
+  font-weight: 300;
+  color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
